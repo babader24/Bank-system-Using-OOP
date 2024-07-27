@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\My_github_apps\\Bank Project Using OOP\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{026CE982-93DD-4C22-A058-CED3A739B763}|Bank Project Using OOP\\Bank Project Using OOP.vcxproj|F:\\My_github_apps\\Bank Project Using OOP\\Bank Project Using OOP\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{026CE982-93DD-4C22-A058-CED3A739B763}|Bank Project Using OOP\\Bank Project Using OOP.vcxproj|solutionrelative:Bank Project Using OOP\\clsScreen.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{026CE982-93DD-4C22-A058-CED3A739B763}|Bank Project Using OOP\\Bank Project Using OOP.vcxproj|F:\\My_github_apps\\Bank Project Using OOP\\Bank Project Using OOP\\Bank Project Using OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{026CE982-93DD-4C22-A058-CED3A739B763}|Bank Project Using OOP\\Bank Project Using OOP.vcxproj|solutionrelative:Bank Project Using OOP\\Bank Project Using OOP.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "clsScreen.h",
+              "DocumentMoniker": "F:\\My_github_apps\\Bank Project Using OOP\\Bank Project Using OOP\\clsScreen.h",
+              "RelativeDocumentMoniker": "Bank Project Using OOP\\clsScreen.h",
+              "ToolTip": "F:\\My_github_apps\\Bank Project Using OOP\\Bank Project Using OOP\\clsScreen.h",
+              "RelativeToolTip": "Bank Project Using OOP\\clsScreen.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-07-27T10:53:12.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Bank Project Using OOP.cpp",
+              "DocumentMoniker": "F:\\My_github_apps\\Bank Project Using OOP\\Bank Project Using OOP\\Bank Project Using OOP.cpp",
+              "RelativeDocumentMoniker": "Bank Project Using OOP\\Bank Project Using OOP.cpp",
+              "ToolTip": "F:\\My_github_apps\\Bank Project Using OOP\\Bank Project Using OOP\\Bank Project Using OOP.cpp",
+              "RelativeToolTip": "Bank Project Using OOP\\Bank Project Using OOP.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-07-20T09:38:04.443Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
