@@ -4,3 +4,4 @@
 #include "clsBankUser.h";
 
 clsBankUser currntUser = clsBankUser::Find("", "");
+

@@ -120,6 +120,7 @@ public:
 	static bool readYesOrNo(string massage = "\n Invalid, Please Enter [y or n]: ")
 	{
 		char answer = ' ';
+		cout << "\nAre You Sure? Answer Whith Only y/n";
 		cin >> answer;
 
 		while (toupper(answer) != 'Y' && toupper(answer) != 'N')

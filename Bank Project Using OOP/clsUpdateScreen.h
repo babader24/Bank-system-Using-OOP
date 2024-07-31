@@ -77,6 +77,9 @@ private:
 
 			cout << "\nDo You Want To Give Him user Mangment? y/Y ";
 			(clsValidation::readYesOrNo()) ? counter |= clsBankUser::enUserPromissions::pUserMangment : 0;
+
+			cout << "\nDo You Want To Give Him Loging Regester list? y/Y ";
+			(clsValidation::readYesOrNo()) ? counter |= clsBankUser::enUserPromissions::pLoginRegester : 0;
 		}
 		return counter;
 	}

@@ -281,7 +281,23 @@ public:
 
     }
 
+    static string _Encrypt(string passoword, char key= 4)
+    {
+        for (short i = 0; i < passoword.length(); i++)
+        {
+            passoword[i] = char((int)passoword[i] + key);
+        }
+        return passoword;
+    }
 
+    static string _Decrypt(string passoword, char key= 4)
+    {
+        for (short i = 0; i < passoword.length(); i++)
+        {
+            passoword[i] = char((int)passoword[i] - key);
+        }
+        return passoword;
+    }
 
 };
 

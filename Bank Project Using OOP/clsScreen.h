@@ -3,6 +3,7 @@
 #include <iomanip>
 #include "clsBankUser.h";
 #include "Global.h";
+#include "clsDate.h";
 
 
 using namespace std;
@@ -18,6 +19,9 @@ protected:
 		{
 			cout << "\t\t\t\t   "  << SubTitle << "\n";
 		}
+		cout << setw(40) << "\t\t\t_______________________________________" << endl;
+		cout << "\t\t\tUser : " << currntUser.GetUserName() << "\n";
+		cout << "\t\t\tDate : " << clsDate::dateToString(clsDate()) << endl;
 		cout << setw(40) << "\t\t\t_______________________________________" << endl;
 
 	}

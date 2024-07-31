@@ -5,6 +5,7 @@
 #include "clsString.h";
 #include <string>
 #include <fstream>
+#include "clsInputVaildation.h";
 
 using namespace std;
 class clsBankClint : public clsPerson
@@ -16,6 +17,51 @@ private:
 	string _Pincode;
 	float _AcountBalance;
 	bool _MarkedForDelete = false;
+
+	static string _PreparTransferToLine(clsBankClint sender, clsBankClint reciver, double ammount,string username, string sep = "#//#")
+	{
+		string name = "";
+		name += clsDate::getDateAndTimeToString() + sep;
+		name += sender.acountNumber() + sep;
+		name += reciver.acountNumber() + sep;
+		name += to_string(ammount) + sep;
+		name += to_string(sender.AcountBalance) + sep;
+		name += to_string(reciver.AcountBalance) + sep;
+		name += username;
+		return name;
+	}
+	
+	struct stTransferLog;
+	static stTransferLog _convertLineToTransferLog(string line, string sep = "#//#")
+	{
+		stTransferLog transfer;
+		vector <string> vTransver = clsString::Split(line, sep);
+
+		transfer.date = vTransver[0];
+		transfer.senderAccount = vTransver[1];
+		transfer.reciverAccount = vTransver[2];
+		transfer.ammount = stod(vTransver[3]);
+		transfer.senderBalance = stod(vTransver[4]);
+		transfer.reciverBalance = stod(vTransver[5]);
+		transfer.user = vTransver[6];
+
+		return transfer;
+	}
+
+	static void regesterTransferToFile(clsBankClint sender, clsBankClint reciver, double ammount, string username)
+	{
+		string line = _PreparTransferToLine(sender, reciver, ammount, username);
+
+		fstream file;
+		file.open("TransfaerRegester.txt", ios::out | ios::app);
+
+		if (file.is_open())
+		{
+			file << line << endl;
+
+			file.close();
+		}
+	}
 
 	static clsBankClint _convertLineToClintObject(string line, string separator = "#//#")
 	{
@@ -120,6 +166,7 @@ private:
 		return clsBankClint(enMode::EmptyMode, "", "", "", "", "", "", 0);
 	}
 
+
 public:
 
 	clsBankClint(enMode mode, string firstName, string lastName, string email, string phone, string acountNumber, string pincode, float acountBalance)
@@ -130,6 +177,17 @@ public:
 		_Pincode = pincode;
 		_AcountBalance = acountBalance;
 	}
+
+	struct stTransferLog
+	{
+		string date;
+		string senderAccount;
+		string reciverAccount;
+		double ammount;
+		double senderBalance;
+		double reciverBalance;
+		string user;
+	};
 
 	string acountNumber()
 	{
@@ -342,5 +400,52 @@ public:
 			return true;
 		}
 	}
+
+	static bool transfer(clsBankClint& from, clsBankClint& to ,string user)
+	{
+		cout << "\nPlease Enter The Amount : ";
+		double ammount = clsValidation::readPositiveNumber();
+		while (from.AcountBalance < ammount)
+		{
+			cout << "\nError, The Amount Is Bigger Than Your Balance!\n";
+			cout << "\nPlease Enter The Amount Again : ";
+			ammount = clsValidation::readPositiveNumber();
+		}
+		if (clsValidation::readYesOrNo())
+		{
+			from.withDraw(ammount);
+			to.deposite(ammount);
+			regesterTransferToFile(from, to, ammount, user);
+			cout << "\nThe tarnsfer Done Successfuly : \n";
+			return true;
+		}
+		else
+		{
+			cout << "Error, Oparations Was Cancelled ";
+			return false;
+		}
+		
+	} 
+
+	static vector <stTransferLog> GetTransferLogList()
+	{
+		vector< stTransferLog> vTransfer;
+		fstream file;
+		file.open("TransfaerRegester.txt", ios::in);//read Only
+
+		if (file.is_open())
+		{
+			string line;
+			while (getline(file, line))
+			{
+				stTransferLog transfer = _convertLineToTransferLog(line);
+				vTransfer.push_back(transfer);
+			}
+			file.close();
+		}
+		return vTransfer;
+	}
+
+
 };
 

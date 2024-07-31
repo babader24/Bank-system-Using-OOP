@@ -47,7 +47,7 @@ public:
 
 		double ammount = 0;
 
-		cout << "\nPlease Enter a Deposite : ";
+		cout << "\nPlease Enter a Withdraw : ";
 		ammount = clsValidation::readPositiveNumber();
 
 		char answer = 'n';
@@ -56,7 +56,7 @@ public:
 		{
 			if(clint.withDraw(ammount))
 			{
-				cout << "\nDeposite Complete Successfully :-)\n";
+				cout << "\nWithdraw Complete Successfully :-)\n";
 				cout << "The New Balanc Is: " << clint.AcountBalance << endl;
 			}
 			else

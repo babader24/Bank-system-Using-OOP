@@ -11,6 +11,8 @@
 //#include "clsEndScreen.h";
 #include "clsLoginScreen.h";
 #include "Global.h";
+#include "clsLoginRegesterScreen.h";
+#include "clsCurrencyMainScreen.h";
 
 using namespace std;
 class clsShowScreens :protected clsScreen
@@ -20,14 +22,16 @@ private:
 	{
 		showClintList = 1, showAddNewClint = 2,
 		showDeleteClint = 3, showUpdateCilnt = 4,
-		showFindClint = 5, showTransection = 6, showUserMangment = 7, showExit = 8
+		showFindClint = 5, showTransection = 6,
+		showUserMangment = 7, showRegester = 8,
+		showCurrencyScreen = 9, showExit = 10
 	};
 
 	static short _readOptionNumber()
 	{
 		short choise;
-		cout << "\t\t\tChoose Number [1-8] :";
-		choise = clsValidation::readShortNumberBetween(1, 8);
+		cout << "\t\t\tChoose Number [1-10] :";
+		choise = clsValidation::readShortNumberBetween(1, 10);
 		return choise;
 	}
 
@@ -86,9 +90,19 @@ private:
 		clsEndScreen::showEndScreen();
 	}*/
 
+	static void _ShowCurrencyMainScreen()
+	{
+		clsCurrencyMainScreen::showCurrencyMainScreen();
+	}
+
 	static void _Logout()
 	{
 		currntUser = clsBankUser::Find("", "");
+	}
+
+	static void _showRegestrScreen()
+	{
+		clsLoginRegesterScreen::showRegesterScreen();
 	}
 
 	static void _PerformAction(enChoseOption option)
@@ -139,6 +153,18 @@ private:
 			showMainMenu();
 			break;
 		}
+		case clsShowScreens::showRegester:
+		{
+			_showRegestrScreen();
+			_GetBackToMainMenu();
+			break;
+		}
+		case clsShowScreens::showCurrencyScreen:
+		{
+			_ShowCurrencyMainScreen();
+			showMainMenu();
+			break;
+		}
 		case clsShowScreens::showExit:
 		{
 			_Logout();
@@ -162,7 +188,9 @@ public:
 		cout << "\t\t\t [5] Find Clint \n";
 		cout << "\t\t\t [6] Transection \n";
 		cout << "\t\t\t [7] User Mangement \n";
-		cout << "\t\t\t [8] LogOut \n";
+		cout << "\t\t\t [8] Login Regesters List \n";
+		cout << "\t\t\t [9] Show Currency Screen \n";
+		cout << "\t\t\t [10] LogOut \n";
 		cout << setw(40) << "\t\t\t________________________________________" << endl;
 		_PerformAction((enChoseOption)_readOptionNumber());
 	}

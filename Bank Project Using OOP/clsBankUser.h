@@ -5,6 +5,7 @@
 #include <fstream>
 #include "clsString.h";
 #include <string>
+#include "clsUtil.h";
 
 using namespace std;
 class clsBankUser : public clsPerson
@@ -17,12 +18,35 @@ private:
 	int _Permissions;
 	bool _MatkedForDelete = false;
 	
+	string _PreparLoginRecord(string sep = "#//#")
+	{
+		string name = "";
+
+		name += clsDate::getDateAndTimeToString() + sep;
+		name += GetUserName() + sep;
+		name += clsUtil::_Encrypt(password) + sep;
+		name += to_string(permissions);
+		return name;
+	}
+
+	struct stLoginRecord;
+	static stLoginRecord _ConvertLoginRecordUserData(string line, string separator = "#//#")
+	{
+		stLoginRecord loginRecord;
+		vector<string> vLogin = clsString::Split(line, separator);
+
+		loginRecord.dateTime = vLogin[0];
+		loginRecord.userName= vLogin[1];
+		loginRecord.password= clsUtil::_Decrypt(vLogin[2]);
+		loginRecord.permisson =stoi(vLogin[3]);
+		return loginRecord;
+	}
 
 	static clsBankUser _ConvertLineToUserData(string line, string separator = "#//#")
 	{
 		vector<string> vUser = clsString::Split(line, separator);
 
-		return clsBankUser(enUserMode::UpdateMode, vUser[0], vUser[1], vUser[2], vUser[3], vUser[4], vUser[5], stoi(vUser[6]));
+		return clsBankUser(enUserMode::UpdateMode, vUser[0], vUser[1], vUser[2], vUser[3], vUser[4], clsUtil::_Decrypt(vUser[5]), stoi(vUser[6]));
 	}
 
 	static string _ConvertUserDataToLine(clsBankUser user, string separator = "#//#")
@@ -33,7 +57,7 @@ private:
 		name += user.email + separator;
 		name += user.phone + separator;
 		name += user.GetUserName() + separator;
-		name += user.password + separator;
+		name += clsUtil::_Encrypt(user.password) + separator;
 		name += to_string(user.permissions) + separator;
 		return name;
 	}
@@ -134,8 +158,17 @@ public:
 		pShowClintList = 1 << 0, pAddNewClint = 1 << 1,
 		pDeleteClint = 1 << 2, pUpdateCilnt = 1 << 3,
 		pFindClint = 1 << 4, pTransection = 1 << 5,
-		pUserMangment = 1 << 6
+		pUserMangment = 1 << 6, pLoginRegester = 1 << 7
 	};
+
+	struct stLoginRecord
+	{
+		string dateTime;
+		string userName;
+		string password;
+		int permisson;
+	};
+
 	bool isEmpty()
 	{
 		return (_Mode == enUserMode::EmptyMode);
@@ -298,6 +331,39 @@ public:
 			return true;
 		else
 			return false;
+	}
+
+	static vector <stLoginRecord> GetloginRegesterList()
+	{
+		vector< stLoginRecord> vLoginRecord;
+		fstream file;
+		file.open("regesterLogins.txt", ios::in);//read Only
+
+		if (file.is_open())
+		{
+			string line;
+			while (getline(file, line))
+			{
+				stLoginRecord LoginRecord = _ConvertLoginRecordUserData(line);
+				vLoginRecord.push_back(LoginRecord);
+			}
+			file.close();
+		}
+		return vLoginRecord;
+	}
+
+	 void regesterLogins()
+	{
+		string TimeLine = _PreparLoginRecord();
+		fstream file;
+		file.open("regesterLogins.txt", ios::out | ios::app);
+
+		if (file.is_open())
+		{
+			file << TimeLine << endl;
+
+			file.close();
+		}
 	}
 
 };

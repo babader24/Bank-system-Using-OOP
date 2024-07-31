@@ -1,271 +1,376 @@
 ﻿  Bank Project Using OOP.cpp
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\Bank Project Using OOP.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsBankClint.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\Bank Project Using OOP.cpp(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsBankClint.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsBankClint.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsBankClint.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsString.h(38,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsString.h(43,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsString.h(55,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsString.h(192,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsString.h(323,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsString.h(371,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsBankClint.h(328,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsBankClint.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsBankClint.h(340,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsInputVaildation.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\Bank Project Using OOP.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsInputVaildation.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsInputVaildation.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsInputVaildation.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsDate.h(51,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsDate.h(51,25): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsBankClint.h(181,9): warning C4240: nonstandard extension used: access to 'clsBankClint::stTransferLog' now defined to be 'public', previously it was defined to be 'private'
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsBankClint.h(34,9):
+  see declaration of 'clsBankClint::stTransferLog'
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\Bank Project Using OOP.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsBankClint.h(386,21): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\Bank Project Using OOP.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsLoginScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsBankClint.h(398,22): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\Bank Project Using OOP.cpp(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\Bank Project Using OOP.cpp(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsUtil.h(64,5): warning C4102: 'defualt': unreferenced label
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsBankUser.h(3,11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\Bank Project Using OOP.cpp(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsLoginScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsBankUser.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsBankUser.h(3,11): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\Global.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsBankUser.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\Global.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsBankUser.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsLoginScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsBankUser.h(164,9): warning C4240: nonstandard extension used: access to 'clsBankUser::stLoginRecord' now defined to be 'public', previously it was defined to be 'private'
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsBankUser.h(32,9):
+  see declaration of 'clsBankUser::stLoginRecord'
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsLoginScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsLoginScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\Global.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\Global.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsClintList.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsLoginScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsClintList.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsLoginScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsLoginScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsAddClintScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsAddClintScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsAddClintScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsClintList.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsAddClintScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsClintList.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsAddClintScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsAddClintScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsDeleteClintScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsAddClintScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsDeleteClintScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsAddClintScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsAddClintScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsUpdateClintScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsAddClintScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsUpdateClintScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsUpdateClintScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsDeleteClintScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsDeleteClintScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsFindClint.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsFindClint.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsUpdateClintScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsFindClint.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsUpdateClintScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsUpdateClintScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowTransactionScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowTransactionScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsFindClint.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowTransactionScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsFindClint.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsDepositeClint.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsFindClint.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsDepositeClint.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowTransactionScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowTransactionScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsWithdrawClint.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowTransactionScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsWithdrawClint.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowTransactionScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsWithdrawClint.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsDepositeClint.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowTransactionScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsDepositeClint.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsTotalBalancesScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowTransactionScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsTotalBalancesScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsWithdrawClint.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsTotalBalancesScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsWithdrawClint.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsTotalBalancesScreen.h(50,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsWithdrawClint.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowTransactionScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsTotalBalancesScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsTotalBalancesScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsTotalBalancesScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsTotalBalancesScreen.h(50,34): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsUserListScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowTransactionScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsUserListScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsTransferScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsTransferScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsAddUserScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsTransferScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsAddUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowTransactionScreen.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsAddUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsTransferLogScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsTransferLogScreen.h(36,23): warning C4129: '_': unrecognized character escape sequence
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsDeleteUserScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(10,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsDeleteUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsDeleteUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsUpdateScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsUpdateScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsUserListScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsUpdateScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsUserListScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsFindUserScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsAddUserScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsFindUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsAddUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsFindUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsAddUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsDeleteUserScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(156,11): warning C4129: 'M': unrecognized character escape sequence
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsDeleteUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
   
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsDeleteUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(8,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsUpdateScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsUpdateScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsUpdateScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsMangeUserScreen.h(9,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsFindUserScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsFindUserScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsFindUserScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(12,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(13,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(14,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsLoginRegesterScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsLoginRegesterScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(15,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsCurrencyMainScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsCurrencyMainScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsCurrencyMainScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsCurrencyListScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsCurrencyListScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsCurrency.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsCurrencyMainScreen.h(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsFindCurrencyScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsFindCurrencyScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsFindCurrencyScreen.h(4,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsCurrencyMainScreen.h(6,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsUpdateCurrencyScreen.h(2,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsUpdateCurrencyScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsUpdateCurrencyScreen.h(4,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsCurrencyMainScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsCalculatorScreen.h(2,9): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsCalculatorScreen.h(3,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsShowScreens.h(182,11): warning C4129: 'M': unrecognized character escape sequence
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\clsLoginScreen.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  (compiling source file 'Bank%20Project%20Using%20OOP.cpp')
+  
+F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\Bank Project Using OOP\Bank Project Using OOP.cpp(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
   Generating code
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsBankClint.h(285): warning C4715: 'clsBankClint::save': not all control paths return a value
-F:\My_github_apps\Bank Project Using OOP\Bank Project Using OOP\clsBankUser.h(263): warning C4715: 'clsBankUser::SaveUser': not all control paths return a value
-  588 of 599 functions (98.2%) were compiled, the rest were copied from previous compilation.
-    2 functions were new in current compilation
-    2 functions had inline decision re-evaluated but remain unchanged
+  2 of 847 functions ( 0.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    5 functions had inline decision re-evaluated but remain unchanged
   Finished generating code
-  Bank Project Using OOP.vcxproj -> F:\My_github_apps\Bank Project Using OOP\x64\Release\Bank Project Using OOP.exe
+  Bank Project Using OOP.vcxproj -> F:\تاسيس ابو هدهود\كورس رقم 11 البرمجه الكائنية تطبيق عملي\Bank Project Using OOP\x64\Release\Bank Project Using OOP.exe

@@ -579,5 +579,24 @@ public:
 	{
 		return isValidateDate(*this);
 	}
+
+	static string getDateAndTimeToString()
+	{
+		time_t t = time(0);
+		tm* now = localtime(&t);
+
+		short YEAR, month, day, hour, min, sec;
+
+		YEAR = now->tm_year;
+		month = now->tm_mon;
+		day = now->tm_mday;
+		hour = now->tm_hour;
+		min = now->tm_min;
+		sec = now->tm_sec;
+
+		return to_string(day) + "/" + to_string(month) + "/" + to_string(YEAR) + " - " +
+			to_string(hour) + ":" + to_string(min) + ":" + to_string(sec);
+
+	}
 };
 
