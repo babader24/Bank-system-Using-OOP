@@ -36,3 +36,12 @@ from the general screen for ease of
 setting titles and making changes in 
 the future.
 
+A new section for currencies has been 
+added that contains conversion from the 
+dollar to all currencies of the world
+
+I also added a section for user login 
+processes and an account of login 
+transactions that are recorded in an 
+external text file
+
